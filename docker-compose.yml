@@ -1,0 +1,11 @@
+ffmpeg:
+  image: nachochip/ffmpeg:latest
+  working_dir: /usr/src/app/
+  volumes:
+    - .:/usr/src/app
+
+gifsicle:
+  image: starefossen/gifsicle:latest
+  working_dir: /usr/src/app/
+  volumes:
+    - .:/usr/src/app
