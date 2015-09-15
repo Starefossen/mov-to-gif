@@ -1,8 +1,7 @@
 # mov-to-gif
 
-Bulk convert a list of [`mov`](https://en.wikipedia.org/wiki/M3U) (or other
-video files) to `gif` files using [FFmpeg](http://ffmpeg.org) and
-[Gifsicle](http://www.lcdf.org/gifsicle/).
+Bulk convert `mov`, `mp4`, `m4v`, and other video files to `gif` using
+[FFmpeg](http://ffmpeg.org) and [Gifsicle](http://www.lcdf.org/gifsicle/).
 
 ## Requirements
 
